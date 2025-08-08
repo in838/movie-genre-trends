@@ -1,11 +1,12 @@
 # Movie Genre Trends
 
-Este proyecto analiza la evolución de la popularidad de los géneros cinematográficos a lo largo del tiempo, utilizando datos públicos del dataset MovieLens 100k.
+Este proyecto explora el dataset público MovieLens 100k, caracterizando las tendencias de rating según las características de los usuarios y el género cinematográfico.
 
 ## Objetivos
 
-- Visualizar cómo ha cambiado la producción de películas por género a lo largo de los años.
-- Familiarizarse con técnicas básicas de análisis de datos y visualización en Python.
+- Visualizar el dataset para orientar el proyecto
+- Caracterizar las tendencias cinematográficas de los usuarios a través de la relación del rating con la información disponible del usuario
+- Crear un modelo predictivo
 
 ## Estructura
 
