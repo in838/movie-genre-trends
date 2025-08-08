@@ -39,9 +39,8 @@ jupyter notebook notebooks/genre_trends.ipynb
 ## Dataset
 
 Se utiliza el dataset [MovieLens 100k](https://grouplens.org/datasets/movielens/100k/), que contiene:
-- Más de 100,000 valoraciones de películas
+- Más de 100,000 valoraciones de películas con información básica sobre los usuarios
 - Información de géneros y fechas de lanzamiento
-- Datos listos para análisis y visualización
 
 ## Tecnologías usadas
 
