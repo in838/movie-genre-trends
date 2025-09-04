@@ -18,24 +18,6 @@ movie-genre-trends/
 └── requirements.txt    # Lista de dependencias
 ```
 
-## Cómo usar
-
-1. Clona este repositorio:
-```bash
-git clone https://github.com/tu_usuario/movie-genre-trends.git
-cd movie-genre-trends
-```
-
-2. Instala las dependencias necesarias:
-```bash
-pip install -r requirements.txt
-```
-
-3. Abre el análisis en Jupyter Notebook:
-```bash
-jupyter notebook notebooks/genre_trends.ipynb
-```
-
 ## Dataset
 
 Se utiliza el dataset [MovieLens 100k](https://grouplens.org/datasets/movielens/100k/), que contiene:
